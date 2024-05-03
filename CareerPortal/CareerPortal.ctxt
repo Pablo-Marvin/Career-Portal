@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=CareerPortal
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ loadCareers()
+comment3.params=scanner
+comment3.target=void\ registerIndividual(java.util.Scanner)
+comment4.params=scanner
+comment4.target=java.lang.String\ getHobbies(java.util.Scanner)
+comment5.params=scanner
+comment5.target=java.lang.String\ getExtraCurricularActivities(java.util.Scanner)
+comment6.params=
+comment6.target=void\ viewCareers()
+comment7.params=scanner
+comment7.target=void\ recommendCareer(java.util.Scanner)
+comment8.params=career\ hobbies
+comment8.target=boolean\ matchesInterests(java.lang.String,\ java.lang.String)
+comment9.params=career\ activities
+comment9.target=boolean\ matchesActivities(java.lang.String,\ java.lang.String)
+numComments=10
